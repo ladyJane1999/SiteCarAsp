@@ -1,0 +1,121 @@
+[
+  {
+    "Id": 1,
+    "Name": "BMW 5 E34",
+    "Price": 270000,
+    "Type": "BMW",
+    "Body": "Седан",
+    "Images": [
+      "https://pbs.twimg.com/media/D2Mbg6wWwAAh0_w.jpg",
+      "https://sun9-52.userapi.com/c841537/v841537650/737be/yTuskAY62OY.jpg"
+    ],
+    "Used": true
+  },
+  {
+    "Id": 2,
+    "Name": "BMW M2 F22",
+    "Price": 2060000,
+    "Type": "BMW",
+    "Body": "Седан",
+    "Images": [
+      "https://images.cdn.circlesix.co/image/2/250/250/5/uploads/profile/5eb53c2f5816021c2461a9d267f84240.jpg",
+      "https://pictures.dealer.com/s/sonicbeverlyhillsbmw/1108/cffb8db913f78bf64c4b944b1645d619x.jpg"
+    ],
+    "Used": false
+  },
+  {
+    "Id": 3,
+    "Name": "ВАЗ 2108",
+    "Price": 40000,
+    "Type": "ВАЗ",
+    "Body": "Хэтчбэк",
+    "Images": [
+      "https://stillson.ru/wp-content/uploads/2015/11/VAZ_Lada_2108-Hetchbek_3-dv.png",
+      "https://a.d-cd.net/7kAAAgFKLOA-960.jpg"
+    ],
+    "Used": true
+  },
+  {
+    "Id": 4,
+    "Name": "Toyota Mark II",
+    "Price": 250000,
+    "Type": "Toyota",
+    "Body": "Седан",
+    "Images": [
+      "https://sun9-39.userapi.com/Ja3u574Jv-kzxubgmOeqUihOrdBnmWf5gIJRIg/CiSsxQX--Oc.jpg",
+      "https://gallery.ykt.ru/gals/2017/02/05/avtoparts/2302621_0s.jpg"
+    ],
+    "Used": true
+  },
+  {
+    "Id": 5,
+    "Name": "Лада Веста",
+    "Price": 900000,
+    "Type": "ВАЗ",
+    "Body": "Универсал",
+    "Images": [
+      "https://yt3.ggpht.com/a/AATXAJziNyMpEc3zjFm6HY6QJ0zBwgbyNrfq1Wf2fuHc=s900-c-k-c0xffffffff-no-rj-mo",
+      "https://club-vesta.ru/wp-content/uploads/2014/11/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8-%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0-%D0%9B%D0%B0%D0%B4%D0%B0-%D0%92%D0%B5%D1%81%D1%82%D0%B0-5-1024x1024.jpg"
+    ],
+    "Used": false
+  },
+  {
+    "Id": 6,
+    "Name": "Mercedes GLA-250 (2017)",
+    "Price": 1200000,
+    "Type": "Mercedes",
+    "Body": "Mini SUV",
+    "Images": [
+      "https://i.pinimg.com/736x/45/b5/48/45b548f67e92dddd5f63c2c155531c49--build-your-own-taps.jpg",
+      "https://sun9-51.userapi.com/impf/c851016/v851016406/100bd4/LZM6TCtb4eI.jpg?size=400x0&quality=90&sign=93193168e02044fbaf592f5c37da8217"
+    ],
+    "Used": true
+  },
+  {
+    "Id": 7,
+    "Name": "Mercedes GLA-250 (2020)",
+    "Price": 2780000,
+    "Type": "Mercedes",
+    "Body": "Mini SUV",
+    "Images": [
+      "https://img5.goodfon.ru/original/2048x2048/7/2d/mercedes-benz-gla-2504matic-amg-line-2020-gla-class-gla-k-11.jpg",
+      "http://smarty-trend.com/img/cms/Compibilyty/mercedes_benz_gla_class_x156_interior_1x1-1000x1000.jpg"
+    ],
+    "Used": false
+  },
+  {
+    "Id": 8,
+    "Name": "Volkswagen Touareg 2020",
+    "Price": 3500000,
+    "Type": "Volkswagen",
+    "Body": "Crossover",
+    "Images": [
+      "https://img5.goodfon.ru/original/2048x2048/3/fc/volkswagen-touareg-phev-2019-volkswagen-touareg-volkswagen-t.jpg",
+      "https://auto.mail.ru/image/94900-64825aad8492e669f805852118204578/"
+    ],
+    "Used": false
+  },
+  {
+    "Id": 9,
+    "Name": "Dodge Ram",
+    "Price": 4800000,
+    "Type": "Dodge",
+    "Body": "Pickup",
+    "Images": [
+      "https://www.shtori-sofi.com/wp-content/uploads/2019/08/115-4.jpg"   
+    ],
+    "Used": true
+  },
+  {
+    "Id": 10,
+    "Name": "Mazda MX-5 restyle 2018",
+    "Price": 3200000,
+    "Type": "Mazda",
+    "Body": "Cabriolet",
+    "Images": [
+      "https://static.goodwood.com/globalassets/.road--racing/road/news/2018/september/mazda-mx-5/mazda_mx_5_27091807.jpg?crop=(201,0,1934,1733)&height=585",
+      "https://www.carbonmiata.com/wp-content/uploads/2016/03/IMG_4328-600x600.jpg"
+    ],
+    "Used": true
+  }
+]
